@@ -1,0 +1,47 @@
+,feature_imp,col_name
+156,0.023037653416395187,Microloan_loan
+70,0.01987212896347046,open_date_Microloan_open
+161,0.019162487238645554,Revolving loans given
+145,0.018395746126770973,relationship_period
+2,0.01777309738099575,enq_diffmedian
+24,0.016956984996795654,amount_overdue_open
+98,0.016821179538965225,default_mnths_pct_Microloan_open
+62,0.016414232552051544,open_date_Credit card_open
+3,0.01633131504058838,enq_diff_recentmin
+26,0.016113560646772385,open_date_open
+74,0.016025198623538017,open_date_Loan for business development_open
+21,0.01580972783267498,loan_amount_closed
+162,0.015666857361793518,open_vs_closed
+42,0.015268308110535145,loan_amount_Microloan_open
+31,0.015092863701283932,diff_days_closed
+35,0.014995258301496506,loan_amount_Consumer credit_open
+33,0.014836108312010765,loan_amount_Consumer credit_closed
+22,0.0140990586951375,loan_amount_open
+0,0.013865746557712555,enquiry_amt
+34,0.013803968206048012,loan_amount_Credit card_open
+1,0.013597476296126842,enquiry_date
+63,0.013418003916740417,open_date_Consumer credit_open
+25,0.0129729975014925,open_date_closed
+123,0.012723797932267189,default_mnths_pct_recent_Car loan_open
+90,0.012531235814094543,default_mnths_pct_Credit card_open
+28,0.01228522602468729,default_mnths_pct_open
+73,0.012042536400258541,open_date_Microloan_closed
+61,0.01195682305842638,open_date_Consumer credit_closed
+36,0.011792471632361412,loan_amount_Credit card_closed
+149,0.01160405483096838,Consumer credit_loan
+39,0.011423041112720966,loan_amount_Car loan_open
+45,0.01131309662014246,loan_amount_Microloan_closed
+91,0.011294350028038025,default_mnths_pct_Consumer credit_open
+69,0.01113932952284813,open_date_Mortgage_open
+9,0.011078217066824436,Credit card
+27,0.010855833068490028,default_mnths_pct_closed
+30,0.010834317654371262,default_mnths_pct_recent_open
+158,0.010783067904412746,Mortgage_loan
+89,0.010748605243861675,default_mnths_pct_Consumer credit_closed
+92,0.010642065666615963,default_mnths_pct_Credit card_closed
+118,0.01033373735845089,default_mnths_pct_recent_Credit card_open
+117,0.010293825529515743,default_mnths_pct_recent_Consumer credit_closed
+41,0.010276243090629578,loan_amount_Mortgage_open
+66,0.01005264837294817,open_date_Car loan_closed
+64,0.010050520300865173,open_date_Credit card_closed
+146,0.010022307746112347,Another type of loan_loan
